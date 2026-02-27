@@ -96,3 +96,42 @@ By combining sales and ratings data, this analysis blends both business insights
 | **best_selling_games.csv**    | Output of query #1                 |
 | **critics_top_ten_years.csv** | Output of query #2                 |
 | **golden_years.csv**          | Output of query #3                 |
+
+
+**SQL Techniques Used**
+
+- Joining multiple tables
+
+- Conditional filtering
+
+- GROUP BY aggregation
+
+- AVG(), COUNT(), rounding
+
+- Ordering and sorting results
+
+- Computing column differences
+
+- Creating DataFrames directly from SQL queries
+
+- Exporting final outputs for external use
+
+**Interpretation of the Output**
+
+This project allows us to examine:
+
+✔ Which individual games achieved the greatest commercial success
+
+Helps identify blockbuster trends and strong publisher performance.
+
+✔ Which years critics rated highest
+
+Shows potential high-quality eras in gaming history.
+
+✔ When critics and users strongly agreed
+
+These “golden years” reflect times of widespread acclaim across audiences and reviewers.
+
+✔ Differences between critic and user perception
+
+The diff column highlights disagreement or alignment in tastes.
