@@ -1,6 +1,6 @@
 **Finding the Golden Era of Video Games**
 
-This project explores whether video games have gotten better over time—and identifies which years could be considered the industry’s “golden era.” Using sales data and aggregated critic/user ratings for the top 400 games released since 1977, I analyze:
+This project explores whether video games have gotten better over time and identifies which years could be considered the industry’s “golden era.” Using sales data and aggregated critic/user ratings for the top 400 games released since 1977, I analyze:
 
 Which games sold the most
 
