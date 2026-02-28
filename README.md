@@ -10,6 +10,20 @@ Which years critics and users agreed were exceptional
 
 The analysis is performed using SQL inside a Jupyter Notebook, and the dataset (game_sales.csv) contains curated video game records limited to 400 rows for this project.
 
+**Background of the Study**
+
+The global gaming industry is projected to surpass $300 billion by 2027, and major publishers are constantly trying to create the next big hit. This project aims to answer:
+
+Are video games becoming better over time?
+
+Did the industry experience a “golden age” where quality peaked?
+
+How do user opinions align with critic reviews?
+
+Which games achieved the highest commercial success?
+
+By combining sales and ratings data, this analysis blends both business insights and consumer sentiment.
+
 **Project Objectives**
 
 Using SQL, I generate three key tables:
@@ -72,19 +86,6 @@ diff
 
 Results are sorted by year (ascending).
 
-**Background of the Study**
-
-The global gaming industry is projected to surpass $300 billion by 2027, and major publishers are constantly trying to create the next big hit. This project aims to answer:
-
-Are video games becoming better over time?
-
-Did the industry experience a “golden age” where quality peaked?
-
-How do user opinions align with critic reviews?
-
-Which games achieved the highest commercial success?
-
-By combining sales and ratings data, this analysis blends both business insights and consumer sentiment.
 
 ## Files Included
 
