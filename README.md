@@ -97,7 +97,7 @@ Results are sorted by year (ascending).
 | **best_selling_games.csv**    | Output of query #1                 |
 | **critics_top_ten_years.csv** | Output of query #2                 |
 | **golden_years.csv**          | Output of query #3                 |
-| **SQ:_QUERIES.sql**          | Raw SQL Queris                      |
+| **SQL_QUERIES.sql**          | Raw SQL Queris                      |
 
 
 **SQL Techniques Used**
